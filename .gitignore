@@ -51,8 +51,10 @@ nunit-*.xml
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
-dlldata.c
+dlldata.c\
 
+public/
+.DS_STORE
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
